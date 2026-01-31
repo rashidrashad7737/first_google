@@ -1,0 +1,12 @@
+{
+  "appTitle": "Halls Management",
+  "login": "Login",
+  "register": "Create Account",
+  "email": "Email",
+  "password": "Password",
+  "name": "Name",
+  "logout": "Logout",
+  "users": "Users",
+  "halls": "Halls",
+  "bookings": "Bookings"
+}
